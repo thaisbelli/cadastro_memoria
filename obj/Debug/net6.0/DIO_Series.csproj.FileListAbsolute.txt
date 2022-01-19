@@ -1,0 +1,15 @@
+C:\Users\bet4ca\Documents\Projetos\DIO_Avanade\DIO_Series\bin\Debug\net6.0\DIO_Series.exe
+C:\Users\bet4ca\Documents\Projetos\DIO_Avanade\DIO_Series\bin\Debug\net6.0\DIO_Series.deps.json
+C:\Users\bet4ca\Documents\Projetos\DIO_Avanade\DIO_Series\bin\Debug\net6.0\DIO_Series.runtimeconfig.json
+C:\Users\bet4ca\Documents\Projetos\DIO_Avanade\DIO_Series\bin\Debug\net6.0\DIO_Series.dll
+C:\Users\bet4ca\Documents\Projetos\DIO_Avanade\DIO_Series\bin\Debug\net6.0\ref\DIO_Series.dll
+C:\Users\bet4ca\Documents\Projetos\DIO_Avanade\DIO_Series\bin\Debug\net6.0\DIO_Series.pdb
+C:\Users\bet4ca\Documents\Projetos\DIO_Avanade\DIO_Series\obj\Debug\net6.0\DIO_Series.csproj.AssemblyReference.cache
+C:\Users\bet4ca\Documents\Projetos\DIO_Avanade\DIO_Series\obj\Debug\net6.0\DIO_Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bet4ca\Documents\Projetos\DIO_Avanade\DIO_Series\obj\Debug\net6.0\DIO_Series.AssemblyInfoInputs.cache
+C:\Users\bet4ca\Documents\Projetos\DIO_Avanade\DIO_Series\obj\Debug\net6.0\DIO_Series.AssemblyInfo.cs
+C:\Users\bet4ca\Documents\Projetos\DIO_Avanade\DIO_Series\obj\Debug\net6.0\DIO_Series.csproj.CoreCompileInputs.cache
+C:\Users\bet4ca\Documents\Projetos\DIO_Avanade\DIO_Series\obj\Debug\net6.0\DIO_Series.dll
+C:\Users\bet4ca\Documents\Projetos\DIO_Avanade\DIO_Series\obj\Debug\net6.0\ref\DIO_Series.dll
+C:\Users\bet4ca\Documents\Projetos\DIO_Avanade\DIO_Series\obj\Debug\net6.0\DIO_Series.pdb
+C:\Users\bet4ca\Documents\Projetos\DIO_Avanade\DIO_Series\obj\Debug\net6.0\DIO_Series.genruntimeconfig.cache
